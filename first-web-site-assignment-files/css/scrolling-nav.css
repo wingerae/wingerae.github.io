@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding-left: 10px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+header {
+  background-color: #E6E6FA;
+  color: black;
+  font-family: Bebas Neue ;
+}
+
+h1 {
+  color: black;
+  font-family: Bebas Neue ;
+}
+
+h2 {
+  color: black;
+  font-family: Bebas Neue ;
+}
+
+h3 {
+  color: black;
+  font-family: Bebas Neue ;
+}
+
+h4 {
+  color: black;
+  font-family: Bebas Neue ;
+}
+
+section {
+  padding: 100px 20px;
+  font-family: Arial ;
+}
+
+footer { 
+  padding: 0 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.gold-bg {
+  background-color: #E6E6FA;
+}
